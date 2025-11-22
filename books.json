@@ -1,0 +1,26 @@
+[
+  {
+    "title": "engineering chemistry",
+    "author": "P.C.JAIN",
+    "isbn": "098764322",
+    "status": "available"
+  },
+  {
+    "title": "engineering mathematics",
+    "author": "B.S GREWAL",
+    "isbn": "123456789",
+    "status": "available"
+  },
+  {
+    "title": "BHAGWAT GITA ENGLISH TRANSLATION",
+    "author": "CHARLES BLINKINGS",
+    "isbn": "466789123",
+    "status": "available"
+  },
+  {
+    "title": "PYTHON BASICS",
+    "author": "JOHN DOE",
+    "isbn": "753159456",
+    "status": "available"
+  }
+]
